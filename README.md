@@ -4,10 +4,7 @@
 
 ## 下载
 
-前往 [Releases](https://github.com/kienlung062-cpu/congbai-ledger/releases) 下载最新版本。
-
-- **安装版.exe**：双击安装，推荐大多数用户
-- **绿色版.zip**：解压即用，免安装
+前往 [Releases](https://github.com/kienlung062-cpu/congbai-ledger/releases) 下载最新安装版。
 
 ## 功能
 

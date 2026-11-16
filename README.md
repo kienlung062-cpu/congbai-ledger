@@ -30,7 +30,8 @@ Fully offline personal finance app for Windows — no internet, no tracking, pri
 
 ## 🚀 下载 · Download
 
-- 国内用户：[百度网盘](https://pan.baidu.com/s/1__GiL13-seXMD3twBpufYg?pwd=r2rb)（提取码：r2rb）
+- 国内用户：[Gitee Release](https://gitee.com/kienlung062-cpu/congbai-ledger/releases)（直接下载exe）
+- 国内备用：[百度网盘](https://pan.baidu.com/s/1__GiL13-seXMD3twBpufYg?pwd=r2rb)（提取码：r2rb）
 - 国际用户：[GitHub Releases](https://github.com/kienlung062-cpu/congbai-ledger/releases)
 
 ## 💻 系统要求 · Requirements
